@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "image": "/img/movie1.jpeg",
+      "name": "Inception",
+      "date": "2024-11-01",
+      "time": "7:00 PM",
+      "director": "Christopher Nolan",
+      "type": "Sci-Fi"
+    },
+    {
+      "image": "/img/movie2.jpeg",
+      "name": "The Matrix",
+      "date": "2024-11-02",
+      "time": "8:00 PM",
+      "director": "Lana Wachowski", 
+      "type": "Action"
+    },
+    {
+      "image": "/img/movie3.jpeg",
+      "name": "Interstellar",
+      "date": "2024-11-03",
+      "time": "6:30 PM",
+      "director": "Christopher Nolan",
+      "type": "Adventure"
+    },
+    {
+      "image": "/img/movie4.jpeg",
+      "name": "Pixels",
+      "date": "2024-11-04",
+      "time": "5:30 PM",
+      "director": "Chris Columbus",
+      "type": "Comedy"
+    },
+    {
+      "image": "/img/movie5.jpeg",
+      "name": "Avengers",
+      "date": "2024-11-05",
+      "time": "9:00 PM",
+      "director": "Anthony Russo",
+      "type": "Superhero"
+    },
+    {
+      "image": "/img/movie6.jpeg",
+      "name": "Dark Knight",
+      "date": "2024-11-06",
+      "time": "7:30 PM",
+      "director": "Christopher Nolan",
+      "type": "Action"
+    },
+    {
+      "image": "/img/movie7.jpeg",
+      "name": "Titanic",
+      "date": "2024-11-07",
+      "time": "6:00 PM",
+      "director": "James Cameron",
+      "type": "Romance"
+    },
+    {
+      "image": "/img/movie8.jpeg",
+      "name": "Pulp Fiction",
+      "date": "2024-11-08",
+      "time": "8:30 PM",
+      "director": "Quentin Tarantino",
+      "type": "Crime"
+    },
+    {
+      "image": "/img/movie9.jpeg",
+      "name": "Godfather",
+      "date": "2024-11-09",
+      "time": "7:00 PM",
+      "director": "Francis Coppola",
+      "type": "Drama"
+    },
+    {
+      "image": "/img/movie10.jpeg",
+      "name": "Forrest Gump",
+      "date": "2024-11-10",
+      "time": "5:00 PM",
+      "director": "Robert Zemeckis",
+      "type": "Drama"
+    }
+  ]
+}
